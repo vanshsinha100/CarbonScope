@@ -1,0 +1,29 @@
+Year,Industry Code,Industry Name,Substance,Unit,Supply Chain Emission Factors without Margins,Margins of Supply Chain Emission Factors,Supply Chain Emission Factors with Margins,DQ ReliabilityScore of Factors without Margins,DQ TemporalCorrelation of Factors without Margins,DQ GeographicalCorrelation of Factors without Margins,DQ TechnologicalCorrelation of Factors without Margins,DQ DataCollection of Factors without Margins
+2016,22,Utilities,carbon dioxide,"kg/2018 USD, purchaser price",3.448,0.0,3.448,2,2,1,2,1
+2016,22,Utilities,methane,"kg/2018 USD, purchaser price",0.005,0.0,0.005,4,2,1,1,1
+2016,22,Utilities,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,2,1,2,1
+2016,22,Utilities,other GHGs,"kg CO2e/2018 USD, purchaser price",0.011,0.0,0.011,2,2,1,2,1
+2015,22,Utilities,carbon dioxide,"kg/2018 USD, purchaser price",3.425,0.0,3.425,2,2,1,2,1
+2015,22,Utilities,methane,"kg/2018 USD, purchaser price",0.006,0.0,0.006,4,2,1,1,1
+2015,22,Utilities,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,2,1,2,1
+2015,22,Utilities,other GHGs,"kg CO2e/2018 USD, purchaser price",0.011,0.0,0.011,2,2,1,2,1
+2014,22,Utilities,carbon dioxide,"kg/2018 USD, purchaser price",3.505,0.0,3.505,2,2,1,2,1
+2014,22,Utilities,methane,"kg/2018 USD, purchaser price",0.006,0.0,0.006,4,2,1,1,1
+2014,22,Utilities,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,2,1,2,1
+2014,22,Utilities,other GHGs,"kg CO2e/2018 USD, purchaser price",0.011,0.0,0.011,2,2,1,2,1
+2013,22,Utilities,carbon dioxide,"kg/2018 USD, purchaser price",3.804,0.0,3.804,2,3,1,2,1
+2013,22,Utilities,methane,"kg/2018 USD, purchaser price",0.006,0.0,0.006,4,3,1,1,1
+2013,22,Utilities,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,3,1,2,1
+2013,22,Utilities,other GHGs,"kg CO2e/2018 USD, purchaser price",0.012,0.0,0.012,2,3,1,2,1
+2012,22,Utilities,carbon dioxide,"kg/2018 USD, purchaser price",3.988,0.0,3.988,2,3,1,2,1
+2012,22,Utilities,methane,"kg/2018 USD, purchaser price",0.006,0.0,0.006,4,3,1,1,1
+2012,22,Utilities,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,3,1,2,1
+2012,22,Utilities,other GHGs,"kg CO2e/2018 USD, purchaser price",0.013,0.0,0.013,2,3,1,1,1
+2011,22,Utilities,carbon dioxide,"kg/2018 USD, purchaser price",4.068,0.0,4.068,2,3,1,2,1
+2011,22,Utilities,methane,"kg/2018 USD, purchaser price",0.007,0.0,0.007,4,3,1,1,1
+2011,22,Utilities,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,3,1,2,1
+2011,22,Utilities,other GHGs,"kg CO2e/2018 USD, purchaser price",0.015,0.0,0.015,2,3,1,1,1
+2010,22,Utilities,carbon dioxide,"kg/2018 USD, purchaser price",4.226,0.0,4.226,2,3,1,2,1
+2010,22,Utilities,methane,"kg/2018 USD, purchaser price",0.008,0.0,0.008,4,3,1,1,1
+2010,22,Utilities,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,3,1,2,1
+2010,22,Utilities,other GHGs,"kg CO2e/2018 USD, purchaser price",0.014,0.0,0.014,2,3,1,1,1

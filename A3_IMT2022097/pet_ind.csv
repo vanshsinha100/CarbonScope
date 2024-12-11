@@ -1,0 +1,29 @@
+Year,Industry Code,Industry Name,Substance,Unit,Supply Chain Emission Factors without Margins,Margins of Supply Chain Emission Factors,Supply Chain Emission Factors with Margins,DQ ReliabilityScore of Factors without Margins,DQ TemporalCorrelation of Factors without Margins,DQ GeographicalCorrelation of Factors without Margins,DQ TechnologicalCorrelation of Factors without Margins,DQ DataCollection of Factors without Margins
+2016,324,Petroleum and coal products,carbon dioxide,"kg/2018 USD, purchaser price",0.785,0.005,0.79,4,2,1,3,1
+2016,324,Petroleum and coal products,methane,"kg/2018 USD, purchaser price",0.018,0.0,0.018,4,2,1,1,1
+2016,324,Petroleum and coal products,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,2,1,3,1
+2016,324,Petroleum and coal products,other GHGs,"kg CO2e/2018 USD, purchaser price",0.004,0.0,0.004,4,2,1,4,1
+2015,324,Petroleum and coal products,carbon dioxide,"kg/2018 USD, purchaser price",0.674,0.005,0.68,3,2,1,3,1
+2015,324,Petroleum and coal products,methane,"kg/2018 USD, purchaser price",0.016,0.0,0.016,4,2,1,1,1
+2015,324,Petroleum and coal products,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,2,1,3,1
+2015,324,Petroleum and coal products,other GHGs,"kg CO2e/2018 USD, purchaser price",0.004,0.0,0.004,4,2,1,4,1
+2014,324,Petroleum and coal products,carbon dioxide,"kg/2018 USD, purchaser price",0.524,0.006,0.53,4,2,1,3,1
+2014,324,Petroleum and coal products,methane,"kg/2018 USD, purchaser price",0.012,0.0,0.012,4,2,1,1,1
+2014,324,Petroleum and coal products,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,2,1,3,1
+2014,324,Petroleum and coal products,other GHGs,"kg CO2e/2018 USD, purchaser price",0.003,0.0,0.003,3,2,1,4,1
+2013,324,Petroleum and coal products,carbon dioxide,"kg/2018 USD, purchaser price",0.622,0.006,0.628,4,3,1,3,1
+2013,324,Petroleum and coal products,methane,"kg/2018 USD, purchaser price",0.012,0.0,0.012,4,3,1,1,1
+2013,324,Petroleum and coal products,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,3,1,3,1
+2013,324,Petroleum and coal products,other GHGs,"kg CO2e/2018 USD, purchaser price",0.003,0.0,0.003,3,3,1,4,1
+2012,324,Petroleum and coal products,carbon dioxide,"kg/2018 USD, purchaser price",0.594,0.006,0.6,4,3,1,3,1
+2012,324,Petroleum and coal products,methane,"kg/2018 USD, purchaser price",0.014,0.0,0.014,4,3,1,1,1
+2012,324,Petroleum and coal products,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,3,1,3,1
+2012,324,Petroleum and coal products,other GHGs,"kg CO2e/2018 USD, purchaser price",0.003,0.0,0.003,3,3,1,4,1
+2011,324,Petroleum and coal products,carbon dioxide,"kg/2018 USD, purchaser price",0.63,0.007,0.636,4,3,1,3,1
+2011,324,Petroleum and coal products,methane,"kg/2018 USD, purchaser price",0.014,0.0,0.014,4,3,1,1,1
+2011,324,Petroleum and coal products,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,3,1,3,1
+2011,324,Petroleum and coal products,other GHGs,"kg CO2e/2018 USD, purchaser price",0.004,0.0,0.004,3,3,1,3,1
+2010,324,Petroleum and coal products,carbon dioxide,"kg/2018 USD, purchaser price",0.73,0.007,0.737,4,3,1,3,1
+2010,324,Petroleum and coal products,methane,"kg/2018 USD, purchaser price",0.017,0.0,0.017,4,3,1,1,1
+2010,324,Petroleum and coal products,nitrous oxide,"kg/2018 USD, purchaser price",0.0,0.0,0.0,3,3,1,3,1
+2010,324,Petroleum and coal products,other GHGs,"kg CO2e/2018 USD, purchaser price",0.003,0.0,0.003,3,3,1,3,1
